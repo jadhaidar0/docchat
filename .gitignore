@@ -3,3 +3,5 @@ node_modules/
 client/dist/
 .vscode/
 .DS_Store
+server/init.sql
+server/init.sql
